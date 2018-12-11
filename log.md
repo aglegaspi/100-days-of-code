@@ -35,3 +35,9 @@
 
 **Link to profile**
 [freeCodeCamp Profile](https://www.freecodecamp.org/aglegaspi)
+
+### Day 4: December 10, 2018
+
+**Today's Progress**: Did a few parts of the AVD sections
+
+**Thoughts**: Wasn't feelings well today so I spent most of it recuperating. Learned about adjusting the hue of a color ex. hsl(180, 40%, 45%)
