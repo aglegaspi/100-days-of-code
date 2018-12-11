@@ -40,4 +40,63 @@
 
 **Today's Progress**: Did a few parts of the AVD sections
 
-**Thoughts**: Wasn't feelings well today so I spent most of it recuperating. Learned about adjusting the hue of a color ex. hsl(180, 40%, 45%)
+**Thoughts**: Wasn't feelings well today so I spent most of it recuperating. Learned about adjusting the hue of a color ex. hsl(180, 40%, 45%);
+
+### Day 5: December 10, 2018
+
+**Today's Progress**: Continuing the AVD section
+
+**Thoughts**: Feeling a bit better from my cold. Learned about gradients
+ex.
+background: linear-gradient(35deg, red, white);
+** produced a gradient at a angle between the two colors
+
+background: repeating-linear-gradient(
+      45deg,
+      yellow 0px,
+      yellow 40px,
+      black 40px,
+      black 80px
+    )
+** produces yellow and black stripes at an angle.
+
+#ball2 {
+    left: 65%;
+    transform:scale(1.5);
+  }
+** increased the size of the element to half more of the current size.
+
+ div:hover {
+    transform: scale(1.1);
+  }
+** adds a transform on hover.
+
+#bottom {
+    background-color: blue;
+    transform: skewX(24deg);
+  }
+** skews the element on the x axis
+
+  #top {
+    background-color: red;
+    transform: skewY(-10deg);
+  }
+** skews the element on the Y axis
+
+.center
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  
+  background-color: transparent;
+  border-radius: 50%;
+  box-shadow: 25px 10px 0px 0px blue; 
+}
+** creats a cresent moon
+
