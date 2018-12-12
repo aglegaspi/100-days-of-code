@@ -44,9 +44,9 @@
 
 ### Day 5: December 10, 2018
 
-**Today's Progress**: Continuing the AVD section
+**Today's Progress**: Completed the Applied Visual Design section...woohoo!
 
-**Thoughts**: Feeling a bit better from my cold. Learned about gradients
+**Thoughts**: Feeling a bit better from my cold. Learned about CSS gradients, animations, transforms, and how to make shapes like hearts then make the beat. Loved it!
 ex.
 background: linear-gradient(35deg, red, white);
 ** produced a gradient at a angle between the two colors
@@ -98,5 +98,5 @@ background: repeating-linear-gradient(
   border-radius: 50%;
   box-shadow: 25px 10px 0px 0px blue; 
 }
-** creats a cresent moon
+** creates a cresent moon
 
