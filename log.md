@@ -42,7 +42,7 @@
 
 **Thoughts**: Wasn't feelings well today so I spent most of it recuperating. Learned about adjusting the hue of a color ex. hsl(180, 40%, 45%);
 
-### Day 5: December 10, 2018
+### Day 5: December 11, 2018
 
 **Today's Progress**: Completed the Applied Visual Design section...woohoo!
 
@@ -100,3 +100,15 @@ background: repeating-linear-gradient(
 }
 ** creates a cresent moon
 
+### Day 6: December 12, 2018
+
+**Today's Progress**: Completed the Applied Accessibility section of the Responsive Web Design Certification.
+
+**Thoughts**: Learned about fieldset and legend for forms, tabindex, and accesskey.
+
+The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for normal text. The ratio is calculated by comparing the relative luminance values of two colors. This ranges from 1:1 for the same color, or no contrast, to 21:1 for white against black, the strongest contrast. There are many contrast checking tools available online that calculate this ratio for you.
+
+Some online color picking tools include visual simulations of how colors appear for different types of colorblindness. These are great resources in addition to online contrast checking calculators.
+
+Avoid using "click here" for links. Using accesskey for links.
+tabindex=0 allows accessibility focus on desired elements when using the tab key.
