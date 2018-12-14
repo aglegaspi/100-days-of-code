@@ -112,3 +112,18 @@ Some online color picking tools include visual simulations of how colors appear 
 
 Avoid using "click here" for links. Using accesskey for links.
 tabindex=0 allows accessibility focus on desired elements when using the tab key.
+
+<header> </header>
+<main> </main>
+<article> </article>
+<footer> </footer>
+<nav> </nav>
+<fieldset> </fieldset>
+<legend> </legend>
+
+### Day 7: December 14, 2018
+
+**Today's Progress**: Completed the CSS Flexbox Challenges, CSS Grid sections of the Responsive Web Design certification. Now beginning to Responsive Web Design Projects. Close to certification! Woohoo!
+
+**Thoughts**: Flexbox and Grid presented some information that went over my head. However, I know using the code over and will present familiarity.
+

@@ -15,3 +15,6 @@ Learned how to override external css styling via !important // ex: .pink-text { 
 ### R1D3
 Midway through the pplied Visual Design section of the Responsive Web Design Certification.
 Learned about CSS Variables: fallbacks, :root container, override variable, and media queries.
+
+### R1D7
+Finished all the sections for Responsive Web Design cert. Now I'm completing the projects.
