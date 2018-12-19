@@ -134,4 +134,4 @@ tabindex=0 allows accessibility focus on desired elements when using the tab key
 **Thoughts**: Missed a few days. Why do I always start challenges during the holidays? Guess it's that end of the year thang. Kinda lost some of the insight I had on CSS, inputs, but the referenced CodePen was resourceful in having the code there. I also had to Google how to make a responsive textarea. This overall felt good to get this done. I'm that much closer to my certification. 
 
 **Link**
-[Link to Codepen](https://codepen.io/lex83nyc/pen/JwbwYM)
+[Build A Survey Codepen](https://codepen.io/lex83nyc/pen/JwbwYM)
