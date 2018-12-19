@@ -127,3 +127,11 @@ tabindex=0 allows accessibility focus on desired elements when using the tab key
 
 **Thoughts**: Flexbox and Grid presented some information that went over my head. However, I know using the code over and will present familiarity.
 
+### Day 8: December 19, 2018
+
+**Today's Progress**: Completed the Build A Survey part of the Responsive Web Design Challenges.  
+
+**Thoughts**: Missed a few days. Why do I always start challenges during the holidays? Guess it's that end of the year thang. Kinda lost some of the insight I had on CSS, inputs, but the referenced CodePen was resourceful in having the code there. I also had to Google how to make a responsive textarea. This overall felt good to get this done. I'm that much closer to my certification. 
+
+**Link**
+[Link to Codepen](https://codepen.io/lex83nyc/pen/JwbwYM)
